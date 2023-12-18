@@ -16,3 +16,8 @@ git clone https://github.com/AstuteVisionDL/resume-matching-frontend.git && git 
 
 ## Просмотр результата
 http://localhost/
+
+
+## Демонстрация
+![Светлая тема](/images/light.png)
+![Темная тема](/images/dark.png)
