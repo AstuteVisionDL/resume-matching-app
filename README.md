@@ -1,7 +1,18 @@
-# Запуск приложения в Docker
+# Запуск приложения
 
-## Linux или Git Bash
-Запустить файл run.sh
+## Запуск из Docker
+```cmd
+git clone https://github.com/AstuteVisionDL/resume-matching-frontend.git
+git clone https://github.com/AstuteVisionDL/resume-matching-backend.git
+docker compose up
+```
 
-## Windows
-run.bat
+ИЛИ
+
+```cmd
+git clone https://github.com/AstuteVisionDL/resume-matching-frontend.git && git clone https://github.com/AstuteVisionDL/resume-matching-backend.git && docker compose up
+```
+
+
+## Просмотр результата
+http://localhost/
